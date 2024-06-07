@@ -1,4 +1,4 @@
-
+# Hi, I'm Zay! 👋
 # CNN Model Learning 
 
 object detect with python using CNN algorithm with 1 layers activation.
