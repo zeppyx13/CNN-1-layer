@@ -18,14 +18,16 @@ To use this code, download the required libraries. and create a folder cnamed da
           /class2
 ```
 
-
-## Authors
-
-- [@zeppyx13](https://www.github.com/zeppyx13)
+## IMPORTANT NOTE'S
+- Be careful with the datasets provided, because it will greatly affect the size of the MODEL'S file. The more Train and Validation files, the larger the size.
+- The recommended Train and Validation data is 70:30, namely 70% Train and 30% Validation.
+- For Data Validation, quality is above quantity. That means data validation requires quality image data, not just a lot.
 
 
 ## Features
 
 - object detection
+  
+## Authors
 
-
+- [@zeppyx13](https://www.github.com/zeppyx13)
